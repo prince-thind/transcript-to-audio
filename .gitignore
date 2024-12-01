@@ -1,4 +1,6 @@
 temp/
+output/
+input/
 node_modules
 *.mp3
 *.wav
