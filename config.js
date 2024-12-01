@@ -1,4 +1,4 @@
 module.exports = {
-  translate: false,
+  translate: true,
   targetLanguage: "fr",
 };
