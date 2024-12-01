@@ -1,0 +1,12 @@
+{
+  "name": "transcript-to-audio",
+  "version": "1.0.0",
+  "description": "An experimental project to convert youtube transcripts to audio in other languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
